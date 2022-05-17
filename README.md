@@ -1,2 +1,2 @@
 # java
-java hello wolrd 출력문입니다
+기본적인 실행 방법은 구글에 검색해보세요
